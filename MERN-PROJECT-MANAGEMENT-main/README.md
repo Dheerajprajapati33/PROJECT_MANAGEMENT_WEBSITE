@@ -127,6 +127,4 @@ Inside backend folder:
   - Nodejs download: https://nodejs.org/
   - VS Code download: https://code.visualstudio.com/
 
-## Contact
 
-- Linkedin: https://www.linkedin.com/in/devanshmishr25/
